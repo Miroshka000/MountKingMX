@@ -1,0 +1,7 @@
+name: MountKingMX
+version: 2.3
+api: 1.0.0
+author: Miroshka
+main: MK.MountKing
+depend: [EconomyAPI]
+
