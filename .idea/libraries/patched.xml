@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="patched">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Survival/.cache/patched.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

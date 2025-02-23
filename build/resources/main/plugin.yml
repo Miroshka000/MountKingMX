@@ -1,6 +1,0 @@
-name: MountKingMX
-version: 2.5
-api: 1.0.0
-author: Miroshka
-main: miroshka.mountking.MountKingPlugin
-depend: [EconomyAPI]

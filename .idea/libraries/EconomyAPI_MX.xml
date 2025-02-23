@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="EconomyAPI_MX">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Survival/plugins/EconomyAPI_MX.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
